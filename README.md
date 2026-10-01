@@ -14,7 +14,6 @@ This repository contains a small portfolio of Jupyter notebooks covering numeric
 
 ## Repository Highlights
 
-- Clear English notebook titles and explanations for GitHub viewing.
 - Self-contained implementations of core numerical and modeling routines.
 - Visualization code for financial time series and approximation-error analysis.
 - Lightweight validation examples where appropriate.
