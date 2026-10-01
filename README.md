@@ -64,6 +64,3 @@ The Brent Bollinger Bands notebook downloads market data with `yfinance`, so it 
 └── taylor_approximation_error.ipynb
 ```
 
-## Notes
-
-These notebooks are intended as compact analytical reports and learning artifacts. They focus on transparent implementations and interpretable outputs rather than production-grade pipelines.
